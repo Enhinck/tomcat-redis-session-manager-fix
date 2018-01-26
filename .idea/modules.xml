@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/tomcat-redis-session-manager.iml" filepath="$PROJECT_DIR$/tomcat-redis-session-manager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tomcat-redis-session-manager_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tomcat-redis-session-manager_main.iml" group="tomcat-redis-session-manager" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tomcat-redis-session-manager_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tomcat-redis-session-manager_test.iml" group="tomcat-redis-session-manager" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-redis-session-manager-fix.iml" filepath="$PROJECT_DIR$/tomcat-redis-session-manager-fix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tomcat-redis-session-manager-fix_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tomcat-redis-session-manager-fix_main.iml" group="tomcat-redis-session-manager-fix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tomcat-redis-session-manager-fix_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tomcat-redis-session-manager-fix_test.iml" group="tomcat-redis-session-manager-fix" />
     </modules>
   </component>
 </project>
